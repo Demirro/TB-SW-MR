@@ -32,6 +32,22 @@
               "none": ["Background noise, inaudible"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Demirro.github.io/TB-SW-MR/annotations/spokenweb-s-recording-of-muriel-rukeyser-canvas-1-inaudible.json",
+            "label": {
+              "none": ["inaudible"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Demirro.github.io/TB-SW-MR/annotations/spokenweb-s-recording-of-muriel-rukeyser-canvas-1-background-noise.json",
+            "label": {
+              "none": ["Background noise"]
+            }
+          }
         ],
         "items": [
           {
