@@ -23,6 +23,16 @@
         "id": "https://Demirro.github.io/TB-SW-MR/spokenweb-s-recording-of-muriel-rukeyser/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3112.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://Demirro.github.io/TB-SW-MR/annotations/spokenweb-s-recording-of-muriel-rukeyser-canvas-1-background-noise--inaudible.json",
+            "label": {
+              "none": ["Background noise, inaudible"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://Demirro.github.io/TB-SW-MR/spokenweb-s-recording-of-muriel-rukeyser/canvas-1/paintings",

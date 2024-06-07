@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Demirro.github.io/TB-SW-MR/annotations/spokenweb-s-recording-of-muriel-rukeyser-canvas-1-background-noise--inaudible.json",
+  "type": "AnnotationPage",
+  "label": "Background noise, inaudible",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "spokenweb-s-recording-of-muriel-rukeyser-canvas-1-background-noise--inaudible-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Unknown object falling and making a thumping wooden sound. General Rumbling, making speech less audible",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Demirro.github.io/TB-SW-MR/spokenweb-s-recording-of-muriel-rukeyser/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Demirro.github.io/TB-SW-MR/spokenweb-s-recording-of-muriel-rukeyser/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7.0,15.0"
+        }
+      }
+    }
+  ]
+}
